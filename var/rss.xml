@@ -1,0 +1,43 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki</title>
+<link>http://_:80/index.php</link>
+<description>RSS feed from My new wiki</description>
+<language>en</language>
+
+	<item>
+	  <title>Tracy's information</title>
+	  <pubDate>Fri, 28 Feb 2020 14:30:12 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Tracy%27s+information</link>
+	  <description><pre id="diff"><ins>Tracy kebanyakan maksa udah ga kuat</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Billy's information</title>
+	  <pubDate>Fri, 28 Feb 2020 14:29:37 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Billy%27s+information</link>
+	  <description><pre id="diff"><ins>Billy jangan paksa</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 14:22:48 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff"></pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 14:22:00 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff"><ins>Hello this is the main page!
+There are two pages: [Billy's information] and [Tracy's information]. Feel free to check each of them.</ins>
+</pre></description>
+	</item>
+
+
+
+</channel>
+</rss>
