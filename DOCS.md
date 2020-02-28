@@ -29,4 +29,3 @@ Step for UTS:
 29. cd ..
 30. sudo chmod +07 ./var
 31. Open and edit information in localhost
-
